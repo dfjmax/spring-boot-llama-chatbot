@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-boot-llama-chatbot
+  ai:
+    ollama:
+      chat:
+        model: mistral
